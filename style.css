@@ -1,0 +1,131 @@
+.top-box{
+    background-color: white;
+    height: 100px;
+    border-bottom: double;
+    border-color: white;
+}
+
+.menus{
+    background-color: #a4286a;
+    height: 40px;
+    margin-bottom: 50px;
+}
+.logo{
+    display: inline-block;
+    margin-top: 10px;
+    margin-right: 10px;
+    float: right;
+    height: 80px;
+}
+.top-contain{
+    float: left;
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    margin-right: auto;
+    /* width: 1000px; */
+    height: 80px;
+    text-align: center;
+    font-size: 50px;
+    font-style: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.each-menu{
+    padding: 10px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+    height: 40px;
+    display: inline-block;
+    text-align: center;
+    border-left-color: white;
+    border-left-style: solid;
+    line-height: 20px;
+    color: whitesmoke;
+    text-decoration: none;
+    width: 200px;
+    position: relative;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.each-menu:hover{
+    cursor: pointer;
+    color: lightgray;
+}
+
+.my_photo{
+    width: 400px;
+    border-width: 5px;
+    border-radius: 200px;
+    border-style: solid;
+    border-color: rgb(115, 115, 180);
+}
+
+.school_photo{
+    width: 1000px;
+    border-width: 5px;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: rgb(6, 6, 51);
+}
+
+.photo{
+    display: block;
+    float: left;
+}
+
+.home-contain{
+    display: block;
+    float: right;
+    padding: 30px;
+    background-color: aqua;
+    width: 500px;
+    border-radius: 20px;
+    border-width: 5px;
+    font-size: 25px;
+    /* font-style: italic; */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-style: solid;
+    border-color: black;
+}
+.education-contain{
+    padding: 30px;
+    background-color: aqua;
+    width: 1000px;
+    margin: 50px;
+    text-align: center;
+    border-radius: 20px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+}
+.contain{
+    margin: 100px;
+    display: block;
+    height: 500px;
+}
+
+.footnote{
+    height: 150px;
+    padding: 50px;
+    background-color: #a4286a;
+    color:whitesmoke;
+    font-size: 20px;
+    margin-bottom: 0px;
+}
+.projects-contain{
+    padding: 30px;
+    background-color: aqua;
+    border-radius: 20px;
+    margin: 100px;
+    border-width: 5px;
+    border-style: solid;
+    font-size: 20px;
+    border-color: black;
+    text-align: center;
+
+}
+
